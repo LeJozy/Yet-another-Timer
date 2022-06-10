@@ -9,6 +9,7 @@ import javax.swing.JLabel;
 import javax.swing.Timer;
 
 // Я смог в реквесты!
+// Второй коммит
 
 public class Main {
 	
